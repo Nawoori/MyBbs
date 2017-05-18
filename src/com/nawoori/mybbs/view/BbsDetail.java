@@ -24,3 +24,4 @@ public class BbsDetail {
 		System.out.println("----------------------");
 	}
 }
+
